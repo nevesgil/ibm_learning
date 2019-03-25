@@ -1,2 +1,2 @@
 # ibm_learning
-Some material from coursera and cognitive class tutorials. 
+Some material from IBM learning tools such as coursera and cognitive class tutorials. 
